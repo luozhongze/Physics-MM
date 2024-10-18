@@ -1,6 +1,12 @@
+<p align="center">  
+
 文字识别网站: [https://catocr.com/#/](https://catocr.com/#/)
 
 截图转LaTex格式软件下载: [https://www.simpletex.cn/download](https://www.simpletex.cn/download)
+
+我的讲解视频: [https://www.bilibili.com/video/BV138C1YAEbZ?vd_source=c20b3426f351777246b8b25c0f6890e8](https://www.bilibili.com/video/BV138C1YAEbZ?vd_source=c20b3426f351777246b8b25c0f6890e8)
+
+</p> 
 
 我们每个人在这个仓库里都有自己名字命名的文件夹，文件夹有4个子文件夹。 :blush: 
 
