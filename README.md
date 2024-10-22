@@ -1,3 +1,7 @@
+#[公告：]
+
+``10.22：`` 我已经完成了我自己的 **2个doc文件** 的整理，大家可以进入 **luozhongze** 文件夹看我整理的txt，我的 **9.2.txt** 文件中 **index是从14开始的** ，也就是说我们每个doc整理完后的每个txt，题目的标签都是连续的，并且可以看到我 **Data文件夹中的图片也都是连续命名的** 。还有就是，我们题目的解析中如果有图片， **不要把解析中的图片也另存为图片放进Data中** ，我们只需要保存题目中的图片。
+
 文字识别网站: [https://catocr.com/#/](https://catocr.com/#/)
 
 截图转LaTex格式软件下载: [https://www.simpletex.cn/download](https://www.simpletex.cn/download)
