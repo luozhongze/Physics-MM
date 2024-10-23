@@ -13,7 +13,7 @@
 还有就是，我们题目的解析中如果有图片， **不要把解析中的图片也另存为图片放进Data中** ，我们只需要保存题目中的图片。（就是直接跳过，txt里解析的文本怎么存就怎么存，当做没有这个图片，删去解析里 “如图x所示” 的类似内容）
 
 ***
-文字识别网站: [https://catocr.com/#/](https://catocr.com/#/) **切记在文字识别后需要仔细查看一下字母的识别，容易缺漏**
+文字识别网站: [https://catocr.com/#/](https://catocr.com/#/) **:flushed:  切记在文字识别后需要仔细查看一下字母的识别，容易缺漏  :flushed:**
 
 截图转LaTex格式软件下载: [https://www.simpletex.cn/download](https://www.simpletex.cn/download)
 
