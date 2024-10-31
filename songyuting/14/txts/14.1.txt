@@ -1,6 +1,6 @@
 {
         {
-            "category": "exclusive",
+            "category": "multi",
             "question": "如图所示的四幅图分别对应四种说法，其中正确的是           （选对1个给2分，选对2个得4分，选对3个得5分，每选错1个扣3分，最低得分0分）",
             "picture": [
                 "../Data/1_0.png",
@@ -12,7 +12,7 @@
             "index": 1,
         },
         {
-            "category": "exclusive",
+            "category": "multi",
             "question": "下列五幅图分别对应五种说法，其中正确的是(　　)",
             "picture": [
                 "../Data/2_0.png",
@@ -36,7 +36,7 @@
             "index": 3,
         },
         {
-            "category": "exclusive",
+            "category": "multi",
             "question": "将一个分子P固定在O点,另一个分子Q从图中的A点由静止释放,两分子之间的作用力与间距关系的图象如图所示,则下列说法正确的是",
             "picture": [
                 "../Data/4_0.png",
