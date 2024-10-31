@@ -1,6 +1,6 @@
 {
         {
-            "category": "exclusive",
+            "category": "multi",
             "question": "(多选)如图是一定质量理想气体状态变化的V-T图象,图中ab∥cd,由图象可知(　　)",
             "picture": [
                 "../Data/5_0.png",
@@ -12,7 +12,7 @@
             "index": 5,
         },
         {
-            "category": "exclusive",
+            "category": "multi",
             "question": "[多选](2016·武汉模拟)固体甲和固体乙在一定压强下的熔解曲线如图所示，横轴表示时间t，纵轴表示温度T。下列判断正确的有(　　)",
             "picture": [
                 "../Data/6_0.png",
