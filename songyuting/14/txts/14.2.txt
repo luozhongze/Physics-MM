@@ -8,7 +8,7 @@
             "answer": [
                 "BD"
             ],
-            "analysis": "\mathrm{a\to b}过程中,\frac{\mathrm{V}}{\mathrm{T}}不是常数,是变化的,因此理想气体的压强变化,选项A错误;\mathrm{b\to c}过程气体的温度不变,故气体内能不变,选项B正确;\mathrm{c\to d}过程气体的体积减小,密度增大,选项C错误;\mathrm{d\to a}过程气体的体积不变,无做功过程,气体的温度降低,内能减小,向外放热,选项D正确。",
+            "analysis": "$\mathrm{a\to b}$过程中,$\frac{\mathrm{V}}{\mathrm{T}}$不是常数,是变化的,因此理想气体的压强变化,选项A错误;$\mathrm{b\to c}$过程气体的温度不变,故气体内能不变,选项B正确;$\mathrm{c\to d}$过程气体的体积减小,密度增大,选项C错误;$\mathrm{d\to a}$过程气体的体积不变,无做功过程,气体的温度降低,内能减小,向外放热,选项D正确。",
             "index": 5,
         },
         {
