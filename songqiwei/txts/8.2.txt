@@ -25,16 +25,15 @@
         },
         {
             "category": "multi",
-            "question": "如图所示的电路，由电源、电阻箱和电流表组成，电源电动势E=4V，内阻r=2Ω．电
-流表内阻忽略不计，调节电阻箱，当电阻箱读数等于R1和R2时，电流表读数对应的读数分别为I1和I2，这
-两种情况下电源的输出功率相等．下列说法中正确的是(　　)\nA.$I_1+I_2=2\text{A}$\nB.$I_1-I_2=2\text{A}$\nC.$R_1=\frac1{R_2}$\nD.$R_1=\frac4{R_2}$",
+            "question": "如图所示的电路，由电源、电阻箱和电流表组成，电源电动势E=4V，内阻r=2Ω．电流表内阻忽略不计，调节电阻箱，当电阻箱读数等于R1和R2时，电流表读数对应的读数分别为I1和I2，这两种情况下电源的输出功率相等．下列说法中正确的是(　　)\nA.$I_1+I_2=2\text{A}$\nB.$I_1-I_2=2\text{A}$\nC.$R_1=\frac1{R_2}$\nD.$R_1=\frac4{R_2}$",
             "picture": [
                 "../Data/14_0.png",
             ],
             "answer": [
                 "AD"
             ],
-            "analysis": "$\begin{aligned}&\text{根据闭合电路欧姆定律得:}U=E\text{ - }Ir\text{,输出功率为:}P=UT=EI-I^2r\text{,根据题述,}EI_1-I_1^2r=EI_2\\&-I_2^2r,\text{整理得}:I_1+I_2\frac Er=2\text{A,故 A 正确,B 错误;电源的输出功率 }P=I_1^2R_1=I_2^2R_2,\text{且 }E=I_1(r+R_1)=I_2(r+R_2),\\&\text{整理得: }R_1R_2=4\text{,故 C 错误,D 正确。}\end{aligned}$",
+            "analysis": "$\begin{aligned}&\text{根据闭合电路欧姆定律得:}U=E\text{ - }Ir\text{,输出功率为:}P=UT=EI-I^2r\text{,根据题述,}EI_1-I_1^2r=EI_2\\&-I_2^2r,\text{整理得}:I_1+I_2\frac Er=2\text{A,故 A 正确,B 错误;电源的输出功率 }P=I_1^2R_1=I_2^2R_2,\text{且
+}E=I_1(r+R_1)=I_2(r+R_2),\\&\text{整理得: }R_1R_2=4\text{,故 C 错误,D 正确。}\end{aligned}$",
             "index": 14,
         },
         {
@@ -51,7 +50,7 @@
         },
         {
             "category": "exclusive",
-            "question": "电源的效率η定义为外电路电阻消耗的功率与电源的总功率之比．在“测电源电动势和内阻”的实验中得到的实验图线如图所示．图中U为路端电压，I为干路电流，a、b为图线上的两点，相应状态下电源的效率分别为ηa、ηb.由图可知ηa、ηb的值分别为(　　)\nA.$\frac34、\frac14$\nB.$\frac13、\frac23$\nC.$\frac12、\frac12$\nD.$\frac23、\frac13$",
+            "question": "电源的效率η定义为外电路电阻消耗的功率与电源的总功率之比．在“测电源电动势和内阻”的实验中得到的实验图线如图所示．图中U为路端电压，I为干路电流，a、b为图线上的两点，相应状态下电源的效率分别为ηa、ηb.由图可知ηa、ηb的值分别为( )\nA.$\frac34、\frac14$\nB.$\frac13、\frac23$\nC.$\frac12、\frac12$\nD.$\frac23、\frac13$",
             "picture": [
                 "../Data/16_0.png",
             ],
