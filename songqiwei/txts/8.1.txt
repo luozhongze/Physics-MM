@@ -20,8 +20,7 @@
             "answer": [
                 "C"
             ],
-            "analysis": "设a的长度为$L$, 横截面积为$S, 因 为 R= \frac UI, 而 R= \rho \frac IS$,所以 $\frac {R_{\mathrm{a} }}{R_{\mathrm{b} }}= \frac {U_{1}}{U_{2}}= 1$,即 $\frac {\rho \cdot \frac LS}{\rho \cdot \frac L2S}= 1$,即  $\rho _{\mathrm{b} }$
-$=2\rho_{a};$同理$\frac{R_{a}}{R_{c}}=\frac{U_{1}}{U_{3}}=\frac{1}{2}$,所以$\frac{\rho_{1}\frac{L}{S}}{\rho_{c}\frac{2L}{5}}=\frac{1}{2}$,故$\rho_{b}=\rho_{c}$,由上述可知$\rho_{b}=2\rho_{c}$,选项C正确",
+            "analysis": "设a的长度为$L$, 横截面积为$S, 因 为 R= \frac UI, 而 R= \rho \frac IS$,所以 $\frac {R_{\mathrm{a} }}{R_{\mathrm{b} }}= \frac {U_{1}}{U_{2}}= 1$,即 $\frac {\rho \cdot \frac LS}{\rho \cdot \frac L2S}= 1$,即  $\rho _{\mathrm{b} }$, $=2\rho_{a};$同理$\frac{R_{a}}{R_{c}}=\frac{U_{1}}{U_{3}}=\frac{1}{2}$,所以$\frac{\rho_{1}\frac{L}{S}}{\rho_{c}\frac{2L}{5}}=\frac{1}{2}$,故$\rho_{b}=\rho_{c}$,由上述可知$\rho_{b}=2\rho_{c}$,选项C正确",
             "index": 2,
         },
         {
@@ -57,8 +56,7 @@ $=2\rho_{a};$同理$\frac{R_{a}}{R_{c}}=\frac{U_{1}}{U_{3}}=\frac{1}{2}$,所以$
             "answer": [
                 "C"
             ],
-            "analysis": "欧姆定律$I=\frac UR$,电流的微观表达式$I=neSv$,电阻定律$R=\rho\frac IS$,则金属棒内场强大小为$E$
-$=\frac{U}{L}=\frac{IR}{L}=\rho$ nev,故选项 C 正确。",
+            "analysis": "欧姆定律$I=\frac UR$,电流的微观表达式$I=neSv$,电阻定律$R=\rho\frac IS$,则金属棒内场强大小为$E$, $=\frac{U}{L}=\frac{IR}{L}=\rho$ nev,故选项 C 正确。",
             "index": 5,
         },
         {
@@ -86,7 +84,7 @@ $=\frac{U}{L}=\frac{IR}{L}=\rho$ nev,故选项 C 正确。",
             "index": 7,
         },
         {
-            "category": "multi",
+            "category": "exclusive",
             "question": "如图所示为一未知电路，现测得两个端点a、b之间的电阻为R，若在a、b之间加上电压U，测得通过电路的电流为I，则该未知电路的电功率一定为(　　)\nA. $I^{2}R$\nB. $\frac{U^2}R$\nC.$\text{UI}$ \nD.$UI-I^2R$ ",
             "picture": [
                 "../Data/8_0.png",
