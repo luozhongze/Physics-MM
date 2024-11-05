@@ -87,7 +87,7 @@
             "category": "exculsive",
             "question": "(2016·江苏模拟)如图所示为一单摆及其振动图象，重力加速度g＝10 m/s2，则此单摆的摆长是(　　)\nA．1 m\nB．2 m\nC．3 m\nD．4 m4 m",
             "picture": [
-                "../Data/21_0.png","../Data/21_1.png"
+                "../Data/21_0.png","../Data/21_1.png",
             ],
             "answer": [
                 "A"
