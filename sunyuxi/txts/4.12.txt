@@ -1,0 +1,78 @@
+{
+        {
+            "category": "multi",
+            "question": "如图所示，从斜面顶端A点将一小球以初速度v0沿水平抛出， 经t1时间小球落到斜面上B点处，速度与斜面之间的夹角为α1。若将小球以0.5v0水平抛出，其他条件不变，经t2时间小球落到斜面上的C点（图中未画出），速度与斜面之间的夹角为α2，则下列关系正确的是（     ）\nA.t1：t2 = 4 ：1  \nB. AB：AC = 4 ：1 \nC.  $\alpha_1=\alpha_2$ \nD. $\tan\alpha_1=2\mathrm{tan}\alpha_2$",
+            "picture": [
+                "../Data/21_0.png",
+            ],
+            "answer": [
+                "BC"
+            ],
+            "analysis": "两次抛出的物体都落在斜面上，故偏转角是一定的，即$\alpha_1=\alpha_2$，则C正确，D错误；
+本题中落在斜面上的物体竖直位移与水平射程之比是一个定值，都是斜面倾角的正切值，
+即$\tan\theta=\frac{\frac{1}{2}gt^{2}}{v_{0}t}$，有 $t=\frac{2v_0\tan\theta}{g}$，
+根据已知两次平抛初速度之比为2:1，则t1:t2=2:1，则A错误；
+平抛运动的水平位移s=vot ，
+根据两次平抛初速度之比为2:1，t1:t2=2:1 ，
+所以s1:s2=4:1 ，而斜面上的位移为$L=\frac{s}{\cos\theta}$ ， 
+所以AB：AC = 4 ：1，则B正确；",
+            "index": 21,
+        },
+        {
+            "category": "multi",
+            "question": "中，如图所示，固定斜面PO、QO与水平面MN的夹角均为45°，现由A点分别以v1、v2先后沿水平方向抛出两个小球(可视为质点)，不计空气阻力，其中以v1抛出的小球恰能垂直于QO落于C点，飞行时间为t，以v2抛出的小球落在PO斜面上的B点，且B、C在同一水平面上，则(　　)\nA.落于B点的小球飞行时间为t\nB. v2＝gt\nC. 落于C点的小球的水平位移为$gt^2$\nD. A点距水平面MN的高度为$\frac{3}{4}gt^2$",
+            "picture": [
+                "../Data/22_0.png",
+            ],
+            "answer": [
+                "ACD"
+            ],
+            "analysis": "落于C点的小球强调了速度垂直QO，则分解速度，如图则v1＝gt，水平位移x＝v1t＝$gt^2$，故C正确；落于B点的小球强调了落点位置，则分解位移如图，
+其中，BC在同一平面，下落高度相同，故飞行时间都为t
+有：$\text{tan45°}=\frac{\frac12gt^2}{v_2t}=\frac{gt}{2v_2},\quad v_2=\frac{gt}2$，故A正确，B错误；",
+设C点距地面为h，由几何关系知
+$2h=v_1t-v_2t,h=\frac14gt^2$
+故A距水平面高度$H=h+\frac12gt^2=\frac34gt^2$，故D正确。
+            "index": 22,
+        },
+        {
+            "category": "multi",
+            "question": "如图所示，B点位于斜面底端M点的正上方，并与斜面顶端A点等高且高度为h，在A、B两点分别以速度va和vb沿水平方向抛出两个小球a、b(可视为质点)．若a球落到M点的同时，b球恰好落到斜面的中点N，不计空气阻力，重力加速度为g，则(　　)\nA.va＝vb\nB.va＝$\sqrt{2}$vb \nC.a、b两球同时抛出 \nD. a球比b球提前抛出的时间为$(\sqrt{2}-1)\sqrt{\frac hg}$",
+            "picture": [
+                "../Data/23_0.png",
+            ],
+            "answer": [
+                "BD"
+            ],
+            "analysis": ".由$h=\frac{1}{2}gt_{a}^{2},\frac{h}{2}=\frac{1}{2}gt_{b}^{2}$得：$t_a=\sqrt{\frac{2h}g}, t_b=\sqrt{\frac hg}$, 故a球比球提前抛出的时间△=ta-tb=$(\sqrt{2-1})\sqrt{\frac{h}{g}}$,
+选项C错误D正确；由$\nu_{a}=\frac{x}{t_{a}}, \nu_{b}=\frac{\frac{x}{2}}{t_{b}}$可得va=√2vb，选项A错误B正确",
+            "index": 23,
+        },
+        {
+            "category": "exclusive",
+            "question": "如图所示，离地面高h处有甲、乙两个小球，甲以初速度v0水平射出，同时乙以大小相同的初速度v0沿倾角为45°的光滑斜面滑下，若甲、乙同时到达地面，则v0的大小是（   ）\nA.$\frac{\sqrt{g_{h}}}{2}$\nB. $\sqrt{g_{h}}$\nC.$\frac{\sqrt{2g_{h}}}{2}$ \nD. $2\sqrt{g_{h}}$",
+            "picture": [
+                "../Data/24_0.png",
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "甲球做平抛运动,由$\mathrm{h}=\frac{1}{2} gt^{2}$,解得飞行时间$\text{t}_1=\sqrt{\frac{2h}g}$ .乙球下滑加速度a=gsin45°=$\frac{\sqrt2}{2}$g.由匀变速直线运动规律,$\sqrt{2}\mathrm{~h=v_0t_2+\frac12~at_2^2}$,根据题述, 甲、乙同时到达地面，t1=t2,联立解得：v0=$\frac{\sqrt{gh}}{2}$，选项A正确。",
+            "index": 24,
+        },
+        {
+            "category": "exclusive",
+            "question": "如图所示为河的横截面示意图。.小明先后两次用脚从河岸边同一位置将石子水平踢出，石子两次的初速度之比为1∶2，分别落在A点和B点，则两次石子在空中运动时间之比可能是\nA.1:1\nB. 1:2\nC. 3:4\nD. 2:5",
+            "picture": [
+                "../Data/25_0.png",
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "假设河中没有水，斜坡足够长，第二次石子下落的高度更大。设斜坡倾角为$\theta $，则有tan$\theta $=y/x，$\mathrm{y=\frac{1}{2}gt^2}$，X=v0t，联立解得：$\mathrm{t=\frac{2\nu_{0}\tan\theta}{g}}$.运动时间与初速度成正比。而第二次落到河面上B点，则两次运动时间之比一定小于1：2而大于1：1，所以两次石子在空中运动时间之比可能是3：4，选项C正确",
+            "index": 25,
+        },
+
+
+
+}
