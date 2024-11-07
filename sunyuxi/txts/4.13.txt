@@ -1,0 +1,110 @@
+{
+        {
+            "category": "multi",
+            "question": "如图所示，某人向放在水平地面上的垃圾桶中水平扔废球，结果恰好从桶的右侧边缘飞到地面,不计空气阻力，为了能把废球扔进垃圾桶中，则此人水平抛球时，可以做出的调整为\nA.初速度大小不变，抛出点在原位置正上方\nB. 初速度大小不变，抛出点在原位置正下方\nC. 减小初速度，抛出点位置不变\nD. 增大初速度，抛出点在原位置正上方",
+            "picture": [
+                "../Data/26_0.png",
+            ],
+            "answer": [
+                "BC"
+            ],
+            "analysis": "根据平抛运动规律，可减小水平位移，一是初速度大小不变，抛出点降低，二是减小初速度，抛出点位置不变，选项BC正确AD错误",
+            "index": 26,
+        },
+        {
+            "category": "exclusive",
+            "question": "如图所示，窗子上、下沿间的高度H＝1.6 m，墙的厚度d＝0.4 m，某人在离墙壁距离L＝1.4 m、距窗子上沿h＝0.2 m处的P点，将可视为质点的小物体以速度大小为v水平抛出，小物体直接穿过窗口并落在水平地面上，取g＝10 m/s2。则v的取值范围是(　　)\nA.v>7 m/s  \nB. v<2.3 m/s\nC. 3 m/s<v<7 m/s \nD. 2.3 m/s<v<3 m/s",
+            "picture": [
+                "../Data/27_0.png",
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "小物体做平抛运动，恰好擦着窗子上沿右侧穿过时v最大。此时有L＝vmaxt，h＝$\frac{1}{2}gt^{2}$，代入数据解得vmax＝7 m/s，恰好擦着窗口下沿左侧穿出时速度v最小，则有L＋d＝vmint′，H＋h＝$\frac{1}{2}gt^{\prime}^2$，代入数据解得vmin＝3 m/s，故v的取值范围是3 m/s<v<7 m/s，选项C正确。",
+            "index": 27,
+        },
+        {
+            "category": "exclusive",
+           "question": "如图所示，球网上沿高出桌面H，网到桌边的距离为L。某人在乒乓球训练中，从左侧处，将球沿垂直于网的方向水平击出，球恰好通过网的上沿落到右侧桌边缘。设乒乓球的运动为平抛运动。则乒乓球(　　)\nA.在空中做变加速曲线运动\nB. 在水平方向做匀加速直线运动\nC. 在网的右侧运动的时间是左侧的2倍\nD. 击球点的高度是网高的2倍",
+            "picture": [
+                "../Data/28_0.png",
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "乒乓球击出后，在重力的作用下做平抛运动，其运动可分解为水平方向上的匀速直线运动和竖直方向上的自由落体运动，A、B错误；球在网的左侧和右侧通过的水平距离之比$\frac{\frac{1}{2}L}{L}=\frac{\nu_{\text{水平}}t_{1}}{\nu_{\text{水平}}t_{2}}=\frac{t_{1}}{t_{2}}=\frac{1}{2}$, C正确；设击球点到桌面的高度为则击球点到网上沿的高度与击球点到桌面的高度之比为${\frac{h-H}{h}}={\frac{\frac{1}{2}gt_1^2}{\frac{1}{2}g(t_1+t_2)^2}}$= 1/9， 所以击球点的高度与网高度之比为h/H=9/8,D错误",
+            "index": 28,
+        },
+        {
+            "category": "exclusive",
+           "question": "在水平放置的圆柱体轴线的正上方的P点，将一个小球以水平速度v0垂直圆柱体的轴线抛出，小球飞行一段时间后恰好从圆柱体上Q点沿切线飞过，测得O、Q连线与竖直方向的夹角为θ，那么小球经过Q点时的速度是\nA.$\frac{v_0}{\cos\theta}$  \nB.  $\frac{v_0}{\sin\theta}$ \nC. $\frac{v_0}{\sin^2\theta}$  \nD. $\frac{v_0}{\tan\theta}$  ",
+            "picture": [
+                "../Data/29_0.png",
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "将小球经过Q点时的速度正交分解为水平速度和竖直速度，由vcosθ= v0，解得：v=$\frac{v_0}{\cos\theta}$，选项A正确。",
+            "index": 29,
+        },
+        {
+            "category": "exclusive",
+           "question": "如图，一小球从一半圆轨道左端A点正上方某处开始做平抛运动(小球可视为质点)，飞行过程中恰好与半圆轨道相切于B点．O为半圆轨道圆心，半圆轨道半径为R，OB与水平方向夹角为60°，重力加速度为g，则小球抛出时的初速度为(　　)\nA.$\sqrt{\frac{3gR}2}$\nB. $\sqrt{\frac{3\sqrt{3}gR}2}$\nC. $\sqrt{\frac{\sqrt{3gR}}2}$\nD. $\sqrt{\frac{\sqrt{3gR}}3}$",
+            "picture": [
+                "../Data/30_0.png",
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "到达B点时，平抛运动的水平位移x=R+Rcos60°。设小球抛出时的初速度为$v_0$，则到达B点时有tan60°=$v_0$/gt水平位移与水平速度的关系为x=$v_0$t，联立解得$v_0$= $\sqrt{\frac{3\sqrt{3}gR}2}$ 选项B正确",
+            "index": 30,
+        },
+        {
+            "category": "multi",
+           "question": "一带有乒乓球发射机的乒乓球台如图10所示。水平台面的长和宽分别为L1和L2，中间球网高度为h。发射机安装于台面左侧边缘的中点，能以不同速率向右侧不同方向水平发射乒乓球，发射点距台面高度为3h。不计空气的作用，重力加速度大小为g。若乒乓球的发射速率v在某范围内，通过选择合适的方向，就能使乒乓球落到球网右侧台面上，则v的最大取值范围是(　　)\nA.$\frac{L_{1}}{2}\sqrt{\frac{g}{6h}}<\nu<L_{1}\sqrt{\frac{g}{6h}}$\nB. $\frac{L_{1}}{4}\sqrt{\frac{g}{h}}<\nu<\sqrt{\frac{(4L_{1}^{2}+L_{2}^{2}) g}{6h}}$\nC. $\frac{L_1}2\sqrt{\frac g{6h}}<\nu<\frac12\sqrt{\frac{(4L_1^2+L_2^2) g}{6h}}$\nD. $\frac{L_1}2\sqrt{\frac g{h}}<\nu<\frac12\sqrt{\frac{(4L_1^2+L_2^2) g}{6h}}$",
+            "picture": [
+                "../Data/31_0.png",
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "[名师解析]发射机无论向哪个方向水平发射，乒乓球都做平抛运动。当速度 $v$最小时，球沿中线恰好过网，有：$3h-h=\frac{gt_1^2}2\textcircled{1}$ 1
+$$\frac{L_1}2=v_1t_12$$ 2
+$\circ$联立12得 $v=\frac{L_1}4\sqrt{\frac gb}$
+当速度最大时，球斜向右侧台面两个角发射，有$$\frac12\sqrt{4L_1^2+L_2^2}=v_2t_23$$ 3
+$$3h=\frac12gt_2^24$$",4
+$\therefore$联 立 34得 $v_1= \frac {L_1}4\sqrt {\frac gb}$
+$$v_2=\frac12\sqrt{\frac{(4L_1^2+L_2^2)g}{6h}}$$
+所以使乒乓球落到球网右侧台面上，$v$的最大取值范围为
+$\frac{L_{1}}{4}\sqrt{\frac{g}{h}<v<\frac{1}{2}}\sqrt{\frac{(4L_{1}^{2}+L_{2}^{2})g}{6h}}$,选项 D 正确。",
+            "index": 31,
+        },
+        {
+            "category": "exclusive",
+            "question": "一带有乒乓球发射机的乒乓球台如图5所示，发射机安装于台面左侧边缘的中点，能以不同速率向右侧不同方向水平发射相同的乒乓球．乒乓球1落到球网右侧台面边缘上的中点，乒乓球2落到球网右侧台面边缘上靠近中点的某点．不计空气阻力．则(　　)\nA. 自发射到落台，乒乓球1的飞行时间大于乒乓球2的飞行时间[来源\nB. 乒乓球1的发射速度大于乒乓球2的发射速度\nC. 落台时，乒乓球1的速度大于乒乓球2的速度\nD. 落台时，乒乓球1与乒乓球2重力做功的功率相等[来",
+            "picture": [
+                "../Data/32_0.png",
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "球1和球2平抛运动的高度相同，根据$h=\frac12gt^2$可得，小球运动的时间相同，故错误；竖直方向vy=gt相同，由于球1的水平位移小于球2的水平位移，根据x=vt可知，球2的初速度大于球1的初速度，根据速度的合成可知，球2的落台速度大于球1的落台速度，故B、C错误；由于时间相等，则竖直分速度相等，根据p=mgvy知，重力的时功率相等，故D正确",
+            "index": 32,
+        },
+        {
+            "category": "multi",
+           "question": "如图6所示，水平面内放置一个直径d＝1 m，高h＝1 m的无盖薄油桶，沿油桶直径距左桶壁s＝2 m处的正上方有一点P，P点的高度H＝3 m，从P点沿直径方向水平抛出一小球，不考虑小球的反弹，下列说法正确的是(取g＝10 m/s2)(　　)\nA.小球的速度范围为$\sqrt{15} \mathrm{m/s<\nu<\frac{3}{2}\sqrt{10}}$时，小球击中油桶的内壁\nB. 小球的速度范围为$\sqrt{15} \mathrm{m/s<\nu<\frac{3}{2}\sqrt{10}}$时，小球击中油桶的下底\nC. 小球的速度范围为$\frac{2}{3}\sqrt{15}\mathrm{~m/s<\nu<\sqrt{10}}$时，小球击中油桶外壁\nD. 若P点的高度变为1.8 m，则小球无论初速度多大，均不能落在桶底(桶边沿除外)",
+            "picture": [
+                "../Data/33_0.png",
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "$\begin{aligned} & \text{【名师解析】小球落在 }A\text{ 点时 },v_1=s^{\prime}\sqrt{\frac g{2H}}=\frac23\sqrt{15}\mathrm{~m/s},\text{当小球落在 }D\text{ 点时 },v_2=s^{\prime}\sqrt{\frac g{2(H-h)}}=\sqrt{10}\mathrm{~m/s},\\  & \text{当小球落在 }B\text{ 点时 },v_3=(s+d)^{\prime}\sqrt{\frac g{2H}}=\sqrt{15}\mathrm{~m/s},\text{当小球落在 }C\text{ 点时 },v_4=(s+d)^{\prime}\sqrt{\frac g{2(H-h)}}=\frac32\sqrt{10}\mathrm{~m/s},\\  & \text{选项 A.C 正确,B 错误,若 }P\text{ 点的温度变为 }A\text{,轨迹间时过 }D\text{ 点和 }D\text{ 点,则此时的初速度 }\nu^{\prime}=\sqrt{\frac g2(\frac g{2(H-h)}}\\  & =(s+d)\sqrt{\frac{g}{2vH_2}},\text{解得 H2}=1.8\mathrm{~m,~}\nu^{\prime}=5\mathrm{~m/s,~}\text{在此高度上初速度大于 }5\mathrm{~m/s,~}\text{小球落在油桶右侧内壁上,}\\  & \text{当速度小于 }5\mathrm{~m/s}\text{时,小球至多落在油椅左侧外壁,选项 D,正确。}\end{aligned}$",
+            "index": 33,
+        },
+
+
+
+
+}
