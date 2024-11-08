@@ -1,0 +1,75 @@
+{
+        {
+            "category": "multi",
+            "question": "如图所示，链球上面安有链子和把手。运动员两手握着链球的把手，人和球同时快速旋转，最后运动员松开把手，链球沿斜向上方向飞出，不计空气阻力。关于链球的运动, 下列说法正确的有\nA.链球脱手后做匀变速曲线运动\nB. 链球脱手时沿金属链方向飞出\nC. 链球抛出角度一定时，脱手时的速率越大，则飞得越远\nD. 链球脱手时的速率一定时，抛出角度越小，一定飞得越远",
+            "picture": [
+                "../Data/46_0.png",
+            ],
+            "answer": [
+                "AC"
+            ],
+            "analysis": "链球脱手后只受重力，沿圆周的切线方向飞出，做匀变速曲线运动，选项A正确B错误；根据斜抛运动规律，链球出角度一定时，脱手时的速率越大，则飞得越远，选项C正确；链球脱手时的速率一定时，抛出角度越小，不一定飞得越远，选项D错误",
+            "index": 46,
+        },
+        {
+            "category": "exclusive",
+            "question": "如图所示，一位同学玩飞镖游戏。圆盘最上端有一P点，飞镖抛出时与P等高，且距离P点为L。当飞镖以初速度v0垂直盘面瞄准P点抛出的同时，圆盘以经过盘心O点的水平轴在竖直平面内匀速转动。忽略空气阻力，重力加速度为g，若飞镖恰好击中P点，则v0可能为(　　)\nA.$\frac{2\omega L}\pi $\nB.$\frac{omega L}\2\pi $ \nC. $\frac{\omega L}{3\pi}$\nD. $\frac{\omega L}{4\pi}$",
+            "picture": [
+                "../Data/47_0.png",
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "$\text{设图盘的直径为 d,飞镖恰好击中 P点,根据平抛运动规律,d}=\frac12\operatorname{gt}^2,L=\nu_0t\text{,根据匀速圆周运动规律,t}=\frac\pi\omega+\frac{2n\pi}\omega=\quad\frac{\left(2n+1\right)\pi}\omega\text{,联立解得:}\nu_0=\frac{\omega L}{\left(2n+1\right)\pi}\text{,n=0,1,2,3,}\cdots\text{。选项 C 正确。}$",
+            "index": 47,
+        },
+        {
+            "category": "multi",
+            "question": "如图所示，一个固定在竖直平面上的光滑半圆形管道，管道里有一个直径略小于管道内径的小球，小球在管道内做圆周运动，从B点脱离后做平抛运动，经过0.3 s后又恰好垂直与倾角为45°的斜面相碰。已知半圆形管道的半径R＝1 m，小球可看做质点且其质量为m＝1 kg，g取10 m/s2。则(　　)\nA.小球在斜面上的相碰点C与B点的水平距离是0.9 m\nB. 小球在斜面上的相碰点C与B点的水平距离是1.9 m\nC. 小球经过管道的B点时，受到管道的作用力FNB的大小是1 N\nD. 小球经过管道的B点时，受到管道的作用力FNB的大小是2 N",
+            "picture": [
+                "../Data/48_0.png",
+            ],
+            "answer": [
+                "AC"
+            ],
+            "analysis": "根据平抛运动的规律，小球在C点的竖直分速度vy＝gt＝3 m/s，水平分速度vx＝vytan 45°＝3 m/s，则B点与C点的水平距离为x＝vxt＝0.9 m，选项A正确，B错误；在B点设管道对小球的作用力方向向下，根据牛顿第二定律，有$F_{\mathbf{N}B}+mg=m\frac{V_{B}^{2}}{R}$，vB＝vx＝3 m/s，解得FNB＝－1 N，负号表示管道对小球的作用力方向向上，选项C正确，D错误。",
+            "index": 48,
+        },
+        {
+            "category": "multi",
+            "question": "如图所示，M是水平放置的半径足够大的圆盘，绕过其圆心的竖直轴OO′匀速转动，规定经过圆心O水平向右为x轴的正方向．在圆心O正上方距盘面高为h处有一个正在间断滴水的容器，从t=0时刻开始随传送带沿与x轴平行的方向做匀速直线运动，速度大小为v．已知容器在t=0时刻滴下第一滴水，以后每当前一滴水刚好落到盘面上时再滴一滴水．下列说法正确的是\nA.从水滴落下到落在圆盘上的时间为$\sqrt{\frac hg}$\nB. 要使每一滴水在盘面上的落点都位于同一直线上，圆盘转动的角速度ω应满足$n\pi\sqrt{\frac{g}{2h}},\quad(n=1,2,3,\ldots)$\nC. 第一滴水与第二滴水在盘面上落点间的最小距离为x．\nD. 第二滴水与第三滴水在盘面上落点间的最大距离x．",
+            "picture": [
+                "../Data/49_0.png",
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "水滴在竖直方向做自由落体运动，$\text{由 h=}\frac12\text{gt}^2,\text{ 解得 t=}\sqrt{\frac{2h}g}$，选项A错误；要使每一滴水在圆盘面上的落点都位于同一条直线上，在相邻两滴水的下落时间内，圆盘转过的角度为m，所以圆盘转动2h的角速度$\omega=\frac{n\pi}{t}=n\pi\sqrt{\frac{g}{2h}} ,\quad(n=1,2,3,\ldots)$，选项B正确；第一滴水落在圆盘上的水平位移为$x_1=vt=v\sqrt{\frac{2h}{g}}$，第二滴水落在圆盘上的水平位移为$\mathrm{x}_2=\mathrm{v}\cdot2\mathrm{t}=2\mathrm{v}\sqrt{\frac{2h}g}$，当第二滴水与第一滴水在盘面上的落点位于同一直径上圆心的同侧时，第一滴水与第二滴水在盘面上落点间的距离最小，最小距离x= x2- x1= 2v$\sqrt{\frac{2h}{g}}$- v$\sqrt{\frac{2h}{g}}$= v$\sqrt{\frac{2h}{g}}$，选项C错误；第三滴水在圆盘上的水平位移为x3=v•3t=3v$\sqrt{\frac{2h}{g}}$，当第二滴水与第三滴水在盘面上的落点位于同一直径上圆心的两侧时两点间的距离最大，为x=x2+x3=5v$\sqrt{\frac{2h}{g}}$，选项D正确。",
+            "index": 49,
+        },
+        {
+            "category": "multi",
+            "question": "如图所示，一位同学玩飞镖游戏。圆盘最上端有一P点，飞镖抛出时与P等高，且距离P点为L。当飞镖以初速度v0垂直盘面瞄准P点抛出的同时，圆盘以经过盘心O点的水平轴在竖直平面内匀速转动。忽略空气阻力，重力加速度为g，若飞镖恰好击中P点，则(　　)\nA.飞镖击中P点所需的时间为$\frac{L}{V_{0}}$\nB. 圆盘的半径可能为$\frac{gL^2}{2vv_0^2}$\nC. 圆盘转动角速度的最小值为$\frac{2\pi v_{0}}{L}$\nD. P点随圆盘转动的线速度可能为$\frac{5\pi gL}{4v_{0}}$",
+            "picture": [
+                "../Data/50_0.png",
+            ],
+            "answer": [
+                "AD"
+            ],
+            "analysis": "$\begin{aligned} & \text{飞得水平抛出做平抛运动,在水平方向做匀速直线运动,因此 t}=\frac{L^{}}{v_0},\text{ 故选项 A 错误。飞镖击中 }P\text{点,则 }P\\  & \text{中 }P\text{ 点时,}P\text{ 恰对在最下方,则 }2x=\frac12gt^2\text{,解得圆盘的半径 r}=\frac{gL^2}{4tv_0^2},\text{ 故选项 B 错误。飞镜击中 }P\text{点,则 }P\\  & \text{点转让的角角满足 }\theta=\omega t=\pi+2k\pi(k=0,1,2,\cdots),\text{ 故 }\omega=\frac\theta t=\frac{2k+1}{L}\frac{\pi v_0}{L},\text{则圆盘砖动角速度的}\\  & \text{最小值为}\frac{\pi v_0}{L},\text{故选项 C错误。}P\text{点随圆盘转动的线速度为 }v=\omega_{x}=\frac{2k+1}{L}\cdot\frac{\pi v_0}{4v_0^2}=\frac{2k+1\pi v_0}{4v_0},\\  & \text{当 }k=2\text{ 时,}\pi=\frac{5\pi L}{4n},\text{ 故选项 D 正确。}\end{aligned}\text{  }$",
+            "index": 50,
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
