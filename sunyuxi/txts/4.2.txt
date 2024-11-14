@@ -1,0 +1,187 @@
+ {
+        {
+            "category": "exclusive",
+           "question": "如图所示，长为L的轻直棒一端可绕固定轴O转动，另一端固定一质量为m的小球，小球搁在水平升降台上，升降平台以速度v匀速上升，下列说法正确的是 (　　)\nA.小球做匀速圆周运动\nB. 当棒与竖直方向的夹角为α时，小球的速度为$\frac{v}{L\cos\alpha}$\nC. 棒的角速度逐渐增大\nD. 当棒与竖直方向的夹角为α时，棒的角速度为$\frac{v}{L\sin\alpha}$",
+            "picture": [
+                "../Data/51_0.png",
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "棒与平台接触点(即小球)的运动可视为竖直向上的匀速运动和沿平台向左的运动的合成小球的实际运动即合运动方向是垂直于棒指向左上方，如图所示：设棒的角速度为w，则合速度v=wL，沿竖直向上方向上的速度分量等于v，即wLsina=v，所以 $\omega=\frac v{L\sin\alpha}$小球速度为$\nu_{实}=\omega L=\frac{\nu}{\sin\alpha},$,由此可知(小球)的角速度随棒与竖直方向的夹角a的增大而减小，小球做角速度越来越小的变速圆周运动选项ABC错误D正确",
+            "index": 51,
+        },
+        {
+            "category": "multi",
+            "question": "如图所示，A、B两球分别套在两光滑的水平直杆上，两球通过一轻绳绕过一定滑轮相连，现在A球以速度v向左匀速移动，某时刻连接两球的轻绳与水平方向的夹角分别为α、β，下列说法正确的是(AD)\nA.此时B球的速度为$\frac{\cos\alpha}{\cos\beta}\nu $\nB. 此时B球的速度为$\frac{\sin\alpha}{\sin\beta}\nu $\nC. 在β增大到90°的过程中，B球做匀速运动\nD. 在β增大到90°的过程中，B球做加速运动",
+            "picture": [
+                "../Data/52_0.png",
+            ],
+            "answer": [
+                "AD"
+            ],
+            "analysis": "由于两球沿绳方向的速度大小相等，因此vcosa=vcosβ，解得$v_{B}=v \frac{\cos\alpha}{\cos\beta}$,A项正确，B项错误；在增大到90°的过程中，a在减小，因此B球的速度在增大，B球在做加速运动，C项错误，D项正确",
+            "index": 52,
+        },
+        {
+            "category": "exclusive",
+            "question": "如图所示，一辆货车利用跨过光滑定滑轮的轻质缆绳提升一箱货物，已知货箱的质量为m0，货物的质量为m，货车以速度v向左做匀速直线运动，在将货物提升到图示的位置时，下列说法正确的是(　　)\nA.货箱向上运动的速度大于v\nB. 缆绳中的拉力FT等于(m0＋m)g\nC. 货箱向上运动的速度等于vcosθ\nD. 货物对货箱底部的压力等于mg",
+            "picture": [
+                "../Data/53_0.png",
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "将货车的速度进行正交分解，如图所示。由于绳子不可伸长，货箱和货物整体向上运动的速度和货车速度沿着绳子方向的分量相等，有v1＝vcosθ，故C正确；由于θ不断减小，v1不断增大，故货箱和货物整体向上做加速运动，加速度向上，A错误；拉力大于(m0＋m)g，故B错误；货箱和货物整体向上做加速运动，加速度向上，属于超重，故箱中的物体对箱底的压力大于mg，D错误。",
+            "index": 53,
+        },
+        {
+            "category": "exclusive",
+            "question": "如图所示，套在竖直细杆上的环A由跨过定滑轮的不可伸长的轻绳与重物B相连。由于B的质量较大，故在释放B后，A将沿杆上升，当A环上升至与定滑轮的连线处于水平位置时，其上升速度v1≠0，若这时B的速度为v2，则(　　)\nA.v2＝v1\nB. v2>v1\nC. v2≠0 \nD. v2＝0",
+            "picture": [
+                "../Data/54_0.png",
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "如图所示，分解A上升的速度v，v2＝vcosα，当A环上升至与定滑轮的连线处于水平位置时，α＝90°，故v2＝0，即B的速度为零，D正确。",
+            "index": 54,
+        },
+        {
+            "category": "multi",
+            "question": "如图所示，人在岸上拉船，已知船的质量为m，水的阻力恒为Ff，当轻绳与水平面的夹角为θ时，船的速度为v，此时人的拉力大小为F，则此时(　　)\nA.人拉绳行走的速度为vcos θ\nB. 人拉绳行走的速度为$\frac{V}{\cos\theta}$\nC. 船的加速度为$\frac{F\cos\theta-F_{f}}{m}$\nD. 船的加速度为$\frac{F-F_{f}}{m}$",
+            "picture": [
+                "../Data/55_0.png",
+            ],
+            "answer": [
+                "AC"
+            ],
+            "analysis": "以船为研究对象，船的速度为合速度，沿绳的方向和垂直于绳的方向分解，有 $v_1=vcos\theta $ , $v_2=vsin\theta $ ,则人拉绳行走的速度为 $vcos\theta $ ,A正确，B错误；对船受力分析如图所示，由牛顿第二定律得$F\cos_{}\theta-F_{f}=_{ma}$,船的加速度为$a=\frac{F_{\cos}\theta-F_{z}}{m}$, C 正确，D 错误。",
+            "index": 55,
+        },
+        {
+           "category": "exclusive",
+            "question": "如图所示，细绳一端固定在天花板上的O点，另一端穿过一张CD光盘的中央小孔后拴着一个橡胶球，橡胶球静止时，竖直悬线刚好挨着水平桌面的边沿．现将CD光盘按在桌面上，并沿桌面边缘以速度v匀速移动，移动过程中，CD光盘中央小孔始终紧挨桌面边线，当悬线与竖直方向的夹角为θ时，小球上升的速度大小为（　　）\nA.vsinθ\nB. vcosθ \nC. vtanθ \nD. vcotθ",
+            "picture": [
+                "../Data/56_0.png",
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "把CD光盘中央小孔沿桌面边缘运动速度v沿细线方向和垂直细线方向分解，沿细线方向的分速度等于小球上升的速度，v球=vsinθ，选项A正确。",
+            "index": 56,
+        },
+        {
+            "category": "exclusive",
+            "question": "如图所示，AB杆以恒定的角速度ω绕A点在竖直平面内顺时针方向转动，并带动套在固定水平杆OC上的小环M运动，AO间距离为h。运动开始时AB杆在竖直位置，则经过时间t（小环仍套在AB和OC杆上）小环M的速度大小为（    ）\nA.$\frac{\omega h}{\cos^2(\omega t)}$\nB. $\frac{\omega h}{\cos(\omega t)}$\nC. wh\nD. $\omega htan(\omega t)$",
+            "picture": [
+                "../Data/57_0.png",
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "设t时刻时，AB杆与竖直方向夹角为$\theta$，因为运动开始时AB杆在竖直位置，所以$\angle OAB=\theta=\omega t$。小环M的速度可分解为垂直杆方向的匀速转动和沿杆方向的运动，$vcos\theta=\omega r,r=h/cos\theta $，联立解得：$\mathrm{v}=\frac{\omega h}{\cos^{2}(\omega t)}$选项A正确",
+            "index": 57,
+        },
+        {
+           "category": "exclusive",
+            "question": "在同一平面上的AC、BD两杆，分别以相同的转动周期绕A、B两轴顺时针匀速转动，当两杆转动到如图所示的位置时，∠CAB=∠DBA=60°，此时两杆交点M的速度为v1.。若BD杆变为逆时针匀速转动，不改变两杆的转动周期，当两杆恰好也转动到如图所示的位置时，两杆交点M的速度为v2.。则关于v1和v2关系的判断正确的是\nA.大小相等，方向不同\nB. 大小不等，方向相同\nC. 大小、方向都相同\nD. 大小、方向都不同",
+            "picture": [
+                "../Data/58_0.png",
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "当AC、BD两杆分别以相同的转动周期绕A、B两轴顺时针匀速转动时，把AC杆上M点转动的速度分解为沿BD杆和沿AC杆方向两个分速度。由于AC杆上沿AC杆方向分速度不引起交点的变化，所以只考虑沿BD杆的分速度大小为：$v_{BD}=\frac{\omega L}{\cos30^{\circ}}=\frac{2\sqrt{3}}{3} \omega L$；把BD杆上M点转动的速度分解为沿BD杆和沿AC杆方向两个分速度。由于BD杆上沿BD杆方向分速度不引起交点的变化，所以只考虑沿AC杆的分速度大小为：$v_{AC}=\frac{\omega L}{\cos30^{\circ}}=\frac{2\sqrt{3}}{3} \omega L$；两分速度的夹角为120°，M点速度的大小为v1=2·$\frac{2\sqrt{3}}3$ωLcos60°= $\frac{2\sqrt{3}}3$ωL，方向水平向右。若BD杆变为逆时针匀速转动，把BD杆上M点转动的速度分解为沿BD杆和沿AC杆方向两个分速度。由于BD杆上沿BD杆方向分速度不引起交点的变化，所以只考虑沿AC杆的分速度大小为：$v_{AC}=\frac{\omega L}{\cos30^{\circ}}=\frac{2\sqrt{3}}{3} \omega L$；两分速度的夹角为60°，M点速度的大小为v2=2·$\frac{2\sqrt{3}}3$ωL cos30°=2ωL，方向竖直向下。所以选项D正确。",
+            "index": 58,
+        },
+        {
+            "category": "exclusive",
+            "question": "如右图所示，一根长为l的轻杆OA，O端用铰链固定，另一端固定着一个小球A，轻杆靠在一个高为h的物块上。若物块与地面摩擦不计，则当物块以速度v向右运动至杆与水平方向夹角为θ时，物块与轻杆的接触点为B，下列说法正确的是\nA.B的线速度相同\nB.A、B的角速度不相同\nC. 轻杆转动的角速度为$\frac{\nu\sin^{2}\theta}h$\nD. 小球A的线速度大小为$\frac{\nu l\sin2\theta}h$",
+            "picture": [
+                "../Data/59_0.png",
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "A、B同轴转动，角速度相同，线速度不同，选项AB错误。设图示时刻杆转动的角速度为。当物块以速度v向右运动，接触点B一方面沿杆运动，另一方面绕点转动，设OB=L，对于B点有v=$=\mathrm{vsin}\theta{=}\omega L , \mathrm{sin}\theta{=}h/L ,$，消去L解得$\omega=\frac{\nu\sin^2\theta}h$ 选项C正确。小球A的线速度大小为$\mathrm{vA=}\omega l=\frac{\nu l\sin^{2}\theta}{h}$选项D错误",
+            "index": 59,
+        },
+        {
+           "category": "exclusive",
+            "question": "如图所示，用一根长杆和两个定滑轮的组合装置来提升重物M，长杆的一端放在地面上通过铰链连接形成转轴，其端点恰好处于左侧滑轮正下方0点处，在杆的中点C处拴一细绳，通过两个滑轮后挂上重物M，C点与o点距离为L，现在杆的另一端用力，使其逆时针匀速转动，由竖直位置以角速度ω缓缓转至水平（转过了90°角）．下列有关此过程的说法中正确的是（　　） \nA.重物M做匀速直线运动\nB. 重物M做变速直线运动\nC. 重物M的最大速度是2ωL\nD. 重物M的速度先减小后增大",
+            "picture": [
+                "../Data/60_0.png",
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "设C点线速度方向与绳子方向的夹角为θ（锐角），由题知C点的线速度为ωL，该线速度在绳子方向上的分速度就为ωLcosθ．θ的变化规律是开始最大（90°）然后逐渐变小，所以，ωLcosθ逐渐变大，直至绳子和杆垂直，θ变为零度，绳子的速度变为最大，为ωL；然后，θ又逐渐增大，ωLcosθ逐渐变小，绳子的速度变慢．所以知重物的速度先增大后减小，最大速度为ωL．故选项B正确，A、C、D错误．",
+            "index":60,
+        },
+       {
+            "category": "exclusive",
+            "question": "如图所示，当小车A以恒定的速度v向左运动时，对于B物体，下列说法正确的是(　　)\nA.匀加速上升\nB. B物体受到的拉力大于B物体受到的重力\nC. 匀速上升\nD. B物体受到的拉力等于B物体受到的重力",
+            "picture": [
+                "../Data/61_0.png",
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "将小车的速度分解，如图所示，合速度v沿绳方向的分速度等于物体B的速度vB，所以vB＝vcosθ，随着小车的运动，θ变小，速度vB增大，但速度vB增大不均匀，B物体做变加速运动；进一步可以推知，B物体受到的拉力大于B物体受到的重力．",
+            "index": 61,
+        },
+        {
+            "category": "exclusive",
+            "question": "一探照灯照射在云层底面上，云层底面是与地面平行的平面，如图所示，云层底面距地面高h，探照灯以恒定角速度ω在竖直平面内转动，当光束转到与竖直方向夹角为θ时，云层底面上光点的移动速度是(　　)\nA.hω　\nB. $\frac{h\omega}{\cos\theta}$\nC. $\frac{h\omega}{\cos^2\theta}$\nD. hωtanθ",
+            "picture": [
+                "../Data/62_0.png",
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "设云层底面上光点转动的线速度为V，当光束转到与竖直方向夹角为时θ，云层底面上光点转$\mathbf{v}_0=\frac{h}{\cos\theta}\omega=\frac{h\omega}{\cos\theta}$设云层底面上光点的移动速度为V，则有$\operatorname{vcos}\theta=\mathbf{v}_{0}=\frac{h\omega}{\cos\theta}$动的线速度为解得云层底$v=\frac{h\omega}{\cos^2\theta}$面上光点的移动速度 选项C正确",
+            "index": 62,
+        },
+       {
+            "category": "exclusive",
+            "question": "自行车转弯时，可近似看成自行车绕某个定点O(图中未画出)做圆周运动，如图所示为自行车转弯时的俯视图，自行车前、后两轮轴A、B相距L，虚线表示两轮转弯的轨迹，OB距离为$\sqrt{3}$L，前轮所在平面与车身夹角θ＝30°，此时轮轴B的速度大小v2＝3 m/s.则轮轴A的速度v1大小为(　　)\nA.$\frac{3\sqrt{3}}{2} \mathrm{m/s}$\nB. $2\sqrt{3} \mathrm{m/s}$\nC. $sqrt{3} \mathrm{m/s}$\nD. $3\sqrt{3} \mathrm{m/s}$",
+            "picture": [
+                "../Data/63_0.png",
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "解法1：绳(或杆)端速度的分解法
+此时轮轴的速度产生两个效果，一是与轮轴B同向运动，二是以B为圆心向右转，分解如图（a）所示，因此$\mathbf{v}_{1}\cos\theta=\mathbf{v}_{2}, \theta=30^{\circ}$，解得$\mathbf{v}_{1}=2\sqrt{3} \mathbf{n}/s$，B项正确
+解法2：圆周运动法
+过轮轴A、B分别作车轮的垂线，两线的交点即为0点，如图（b）所示，由几何关系可知前轮与车身夹角为30°，轮轴、B分别做圆周运动的半径$\mathrm{R_{1}=\frac{L}{\sin\theta}=2L、R_{2}=oB=\sqrt{3}L}$，轮轴、B有相同的角速度，因此有
+$\frac{\mathbf{v}_{1}}{\mathbf{R}_{1}}=\frac{\mathbf{v}_{2}}{\mathbf{R}_{2}}, \text{解得} \mathbf{v}_{1}=\frac{\mathbf{R}_{1}}{\mathbf{R}_{2}}\mathbf{v}_{2}=\frac{2\mathbf{L}}{\sqrt{3}\mathbf{L}}\times3 \mathbf{m}/\mathbf{s}=2\sqrt{3} \mathbf{m}/\mathbf{s}$",
+            "index": 63,
+        },
+        {
+            "category": "exclusive",
+            "question": "如图10所示，水平光滑长杆上套有一物块Q，跨过悬挂于O点的轻小光滑圆环的轻绳一端连接Q，另一端悬挂一物块P。设轻绳的左边部分与水平方向的夹角为θ，初始时θ很小。现将P、Q由静止同时释放，关于P、Q以后的运动下列说法正确的是(　　)\nA.当θ＝60°时，P、Q的速度之比是$\sqrt{3}$∶2\nB. 当θ＝90°时，Q的速度最大\nC. 当θ＝90°时，Q的速度为零\nD. 当θ向90°增大的过程中Q的合力一直增大",
+            "picture": [
+                "../Data/64_0.png",
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "Q用同一根绳连接，则沿绳子方向的速度与P的速度大小相等，则当θ=60°时，的速度vcos60°=v，解得$\frac{V_{p}}{V_{Q}}=\frac{1}{2}$     故选项A错误；当θ=90°时，即Q到达0点正下方，垂直Q运动方向上的分速度为0，即=0，此时的速度最大，故选项B正确，c错误；当θ向90°增大的过程中的合力逐浙减小，当θ=90°时，的速度最大，加速度为零，合力为零，故选项D错误",
+            "index": 64,
+        },
+       {
+            "category": "exclusive",
+            "question": "如图11所示，AB杆以恒定角速度绕A点转动，并带动套在光滑水平杆OC上的质量为M的小环运动，运动开始时，AB杆在竖直位置，则小环M的速度将(　　)\nA.逐渐增大 \nB. 先减小后增大\nC. 先增大后减小 \nD. 逐渐减小",
+            "picture": [
+                "../Data/65_0.png",
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "设经过时间t，∠OAB＝ωt，则AM的长度为$\frac{h}{\cos\omega t}$，则AB杆上小环M绕A点的线速度v＝ω·$\frac{h}{\cos\omega t}$。将小环M的速度沿AB杆方向和垂直于AB杆方向分解，垂直于AB杆方向的分速度大小等于小环M绕A点的线速度v，则小环M的速度v′＝$\frac{h}{\cos\omega t}$＝$\frac{\omega h}{\cos^{2}\omega t}$，随着时间的延长，则小环的速度将不断变大，故选项A正确，B、C、D错误。",
+            "index": 65,
+        },
+
+}
