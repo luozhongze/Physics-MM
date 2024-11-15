@@ -1,0 +1,26 @@
+{
+        {
+            "category": "multi",
+            "question": "一空间有垂直纸面向里的匀强磁场B，两条电阻不计的平行光滑导轨竖直放置在磁场内，如图2所示，磁感应强度B＝0.5 T，导体棒ab、cd长度均为0.2 m，电阻均为0.1 Ω，重力均为0.1 N，现用力向上拉动导体棒ab，使之匀速上升(导体棒ab、cd与导轨接触良好)，此时cd静止不动，则ab上升时，下列说法正确的是(　　)\nA．ab受到的拉力大小为2 N\nB．ab向上运动的速度为2 m/s\nC．在2 s内，拉力做功，有0.4 J的机械能转化为电能\nD．在2 s内，拉力做功为0.6 J",
+            "picture": [
+                "../Data/125_0.png",
+            ],
+            "answer": [
+                "BC"
+            ],
+            "analysis": "对导体棒cd分析：$mg=BII=\frac{B^{2}I^{2}v}{R_{2}}$ 得v=2m/s，故选项B正确；对导体棒ab分析：F=mg+BIl=0.2N，选项错误；在2s内拉力做功转化为a棒的重力势能和电路中的电能，电能等于克服安培力做的功，即$\text{B m = FVt=0.8 J}$，选项C正确；在2s内拉力做的功为$\text{B m = FVt=0.8 J}$，选项D错误",
+            "index": 125,
+        },
+        {
+            "category": "multi",
+            "question": "如图所示，光滑金属导轨ab和cd构成的平面与水平面成角，导轨间距=2L，导轨电阻不计．两金属棒MN、PQ垂直导轨放置，与导轨接触良好．两棒质量，电阻，整个装置处在垂直导轨向上的磁感应强度为B的匀强磁场中，金属棒MN在平行于导轨向上的拉力，作用下沿导轨以速度向上匀速运动，PQ棒恰好以速度向下匀速运动．则\nA．MN中电流方向是由N到M\nB．匀速运动的速度的大小是$\frac{mgR\sin\theta}{B^2L^2}$\nC．在MN、PQ都匀速运动的过程中，$F=3mg\sin\theta $\nD．在MN、PQ都匀速运动的过程中",
+            "picture": [
+                "../Data/126_0.png",
+            ],
+            "answer": [
+                "BD"
+            ],
+            "analysis": "试题分析：根据右手定则可以知道，MN中电流方向是由M到N，故选项A错误；根据题意可以知道电流：$I=\frac{BLv+B\cdot2Lv}{R+2R}=\frac{BLv}{R}$，由于PQ匀速运动，则$2mg\sin\theta=BI\cdot2L=\frac{B^{2}L^{2}\nu}{R}$ ，则整理可以得到：$v=\frac{mgR\sin\theta}{B^{2}L^{2}}$故选项B正确；对MN根据平衡条件：$\quad F=mg\sin\theta+B\Pi $，联立可以得到：$F=2mg\sin\theta $，故选项D正确。",
+            "index": 126,
+        },
+}
