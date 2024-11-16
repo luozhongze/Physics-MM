@@ -1,0 +1,38 @@
+{
+        {
+            "category": "exclusive",
+            "question": "如图所示为一磁流体发电机的示意图，A、B是平行正对的金属板，等离子体(电离的气体，由自由电子和阳离子构成，整体呈电中性)从左侧进入，在t时间内有n个自由电子落在B板上，则关于R中的电流大小及方向判断正确的是（    ）\nA．$I=\frac{ne}t$，从上向下\nB．$I=\frac{2ne}t$，从上向下\nC．$I=\frac{ne}t$，从下向上\nD．$I=\frac{2ne}t$，从下向上",
+            "picture": [
+                "../Data/82_0.png",
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "等离子体从左侧进入后，正、负带电粒子在洛伦兹力的作用下，向极板偏转，根据题意，自由电子落在B板上，阳离子应该落在A板上，两极板间形成电势差，自由电子会从电势较低的B板通过导线流经电阻R回到A板，根据在t时间内有n个自由电子落在B板上，可知R中的电流大小$I=\frac{ne}t$，R中的电流方向为从上向下，",
+            "index": 82,
+        },
+        {
+            "category": "exclusive",
+            "question": "一根长为L，横截面积为S的金属棒，其材料的电阻率为ρ，棒内单位体积自由电子数为n，电子的质量为m，电荷量为e。在棒两端加上恒定的电压时，棒内产生电流，自由电子定向运动的平均速率为v，则金属棒内的电场强度大小为(　　)\nA.$\frac{mv^2}{2eL}$\nB.$\frac{mv^2Sn}e$\nC.$\rho nev$\nD.$\frac{\rho e\nu}{SL}$",
+            "picture": [
+                "../Data/83_0.png",
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "欧姆定律$I=\frac UR$,电流的微观表达式$I=neSv$,电阻定律$R=\rho\frac{l}S$,则金属棒内场强大小为$E=\frac{U}{L}=\frac{IR}{L}=\rho nev$,故选项 C 正确。",
+            "index": 83,
+        },
+        {
+            "category": "exclusive",
+            "question": "一根长为L，横截面积为S的金属棒，其材料的电阻率为ρ。棒内单位体积自由电子数为n，电子的质量为m，电荷量为e。在棒两端加上恒定的电压时，棒内产生电流、自由电子定向运动的平均速率为v。则金属棒内的电场强度大小为(　　)\nA．$\frac{mv^2}{2el}$\nB．$\frac{mv^2sn}e$\nC．$\rho nev$\nD．$\frac{\rho e\nu}{SL}$",
+            "picture": [
+                "../Data/84_0.png",
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "$I=\frac{U}{R}$,I=neSv,$R=\rho\frac{L}{S} , E=\frac{U}{L}$,联立得$\rho nev$，故选C。",
+            "index": 84,
+        },
+}
