@@ -1,0 +1,244 @@
+{
+        {
+            "category": "exclusive",
+            "question": "关于图甲、乙、丙、丁，下列说法正确的是(　　)\nA．图甲中电流的峰值为2 A，有效值为$\sqrt{z}$ A，周期为5 s\nB．图乙中电流的峰值为5 A，有效值为2.52$\sqrt{z}$ A\nC．图丙中电流的峰值为2 A，有效值为$\sqrt{z}$A\nD．图丁中电流的最大值为4 A，有效值为$\sqrt{z}$A，周期为2 s",
+            "picture": [
+                "../Data/22_0.png",
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "$\begin{aligned}
+&\text{【名师解析】图甲是正弦式交变电流图线,峰值(最大值)为 2 A,有效值是峰值的}\frac1{\sqrt{2}},\text{即}\sqrt{2}\text{ A,周期为 4 s,} \\
+&\text{向无关,所以仍是峰值的}\frac1{\sqrt{2}}\text{,即 2.5}\sqrt{2}\text{ A,所以 B 选项正确;图丙是图甲减半的脉冲电流,有效值不可能} \\
+&\text{为峰值的}\frac1{\sqrt{2}}\text{,所以 C 选项错误;图丁是交变电流图线,周期为 2 s,根据有效值定义则有:4}^2\times R\times\frac T2+3^2 \\
+&\times R\times\frac T2=I^2RT\text{,解得电流有效值 }I=2.5\sqrt{2}\text{ A,所以 D 选项错误}.
+\end{aligned}$",
+            "index": 22,
+        },
+        {
+            "category": "exclusive",
+            "question": "一个匝数为100匝，电阻为0.5 Ω的闭合线圈处于某一磁场中，磁场方向垂直于线圈平面，从某时刻起穿过线圈的磁通量按图9所示规律变化。则线圈中产生交变电流的有效值为(　　)\nA.52 A  	B.25 A	C.6 A  	D.5 A",
+            "picture": [
+                "../Data/23_0.png",
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "$\begin{aligned}&\text{【名师解析】}0\sim1\text{ s 内线圈中产生的感应电动势 }x_i=x\frac{\triangle\varphi}{\triangle t}=100\times0.01\mathrm{~v}=1\mathrm{~v},1{\sim}1.2\mathrm{~s}\text{内线圈中产生}\\&\text{的感应电动势 }z_i=x\frac{\triangle\varphi}{\triangle t}=100\times\frac{0.01}{0.2}\mathrm{~v}=5\mathrm{~v},\text{在一个周期内产生的热量 }Q=Q_1+Q_2=\frac{E_1}Rt_1+\frac{E_2}Rt_2=12\text{ J,根据}\\&\text{交变电流有效值的定义 }Q=\dot{r}Rt=12\text{ J得 }r=2\sqrt{5}\text{ A,故选项 B 正确,A、C、D 错误。}\end{aligned}$",
+            "index": 23,
+        },
+        {
+            "category": "exclusive",
+            "question": "某研究小组成员设计了一个如图所示的电路，已知纯电阻R的阻值不随温度变化。与R 并联的是一个理想的交流电压表，D是理想二极管(它的导电特点是正向电阻为零，反向电阻为无穷大。在A、B间加一交流电压，瞬时值的表达式为$u=20\sqrt{2}\sin100\pi t(\mathrm{V})$，则交流电压表示数为(　　)\nA.52 A  	B.25 A	C.6 A  	D.5 A",
+            "picture": [
+                "../Data/24_0.png",
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "$\begin{aligned}&\text{【名师解析】矩形线圈 }ab\text{ 边和 }cd\text{ 边产生的感应电动势的最大值都为 }\oplus\text{,所以发电机的电动势峰值为 }2N\oplus\\&\text{选项 A、B 错误;由于不计线圈的电阻,所以发电机的输出电压峰值为 }2Ne_0\text{,故有效值为}\frac{2Ne_0}{\sqrt{2}}=\sqrt{2}Ne_0\text{,故选}\\&\text{项 D 正确。“}\end{aligned}$",
+            "index": 24,
+        },
+        {
+            "category": "exclusive",
+            "question": "小型手摇发电机线圈共N匝，每匝可简化为矩形线圈abcd，磁极间的磁场视为匀强磁场，方向垂直于线圈中心轴OO′，线圈绕OO′匀速转动，如图11所示。矩形线圈ab边和cd边产生的感应电动势的最大值都为e_0，不计线圈电阻，则发电机输出电压\nA.峰值是e_0  	B.峰值是2e_0   C.有效值是$\frac{\sqrt{2}}{2}$Ne_0  	D.有效值是 $\sqrt{2}$Ne_0",
+            "picture": [
+                "../Data/25_0.png",
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "$\begin{aligned}&\text{【名师解析】矩形线圈 }ab\text{ 边和 }cd\text{ 边产生的感应电动势的最大值都为 }\oplus\text{,所以发电机的电动势峰值为 }2N\oplus\\&\text{选项 A、B 错误;由于不计线圈的电阻,所以发电机的输出电压峰值为 }2Ne_0\text{,故有效值为}\frac{2Ne_0}{\sqrt{2}}=\sqrt{2}Ne_0\text{,故选}\\&\text{项 D 正确。“}\end{aligned}$",
+            "index": 25,
+        },
+        {
+            "category": "multi",
+            "question": "一正弦交流电的电压随时间变化的规律如图12所示。由图可知(　　)\nA.该交流电的电压瞬时值的表达式为$u{=}100\sin25\pi t(\mathrm{V})$\nB.该交流电的频率为25 Hz\nC.该交流电的 电压的有效值为$100\sqrt{2} \mathrm{v}$V\nD.若将该交流电压加在阻值R＝100 Ω的电阻两端，则电阻消耗的功率为50 W",
+            "picture": [
+                "../Data/26_0.png",
+            ],
+            "answer": [
+                "BD"
+            ],
+            "analysis": "$\begin{aligned}&\text{【名师解析】从图象中可得该交流电的周期为 }r=4\times10^{-1}s,\text{所以所率为 }r=\frac1r=25\text{ Hz,选项 B正确;角速}\\&\text{度为 }\omega=2\text{T }r=50\text{TT,从图象中可知交流电最大值为 }l_*=100\text{ V,所以该交流电的电压桥时值的表达式为 }\alpha\\&=100\sin(50\text{T z})\text{ V,该交流电的有效电压值为 }D=\frac{U_2}{\sqrt{2}}=50\sqrt{2}\text{ v,选项 A、C错误;若将该交流电压加在阻}\\&\text{值 }R=100\text{ }\Omega\text{ 的电阻两端,则电阻消耗的功率的 }R=\frac{U_P}R=\frac{5000}{100}w=50\text{ w,选项 D 正确。}\end{aligned}$",
+            "index": 26,
+        },       
+        {
+            "category": "multi",
+            "question": "如图13所示，虚线OO′左侧有垂直于纸面向外的匀强磁场，磁感应强度大小为B，凸形线框abcdefgh以虚线OO′为轴以角速度ω匀速转动，abch为边长为L的正方形，defg为边长为L/2的正方形，线框的总电阻为R，从图示位置开始计时，则(　　)\nA.在t＝0时刻，线框中的感应电流最大\nB.在转过90°的过程中，线框中感应电流的瞬时值i随时间t变化的规律为$i=\frac{BL^2\omega\mathrm{sin} \omega t}R$\nC.线框感应电流的最大值为$I_{\mathrm{max}}=\frac{BL^{2}\omega}{R}$\nD.线框转过60°时的瞬时电动势为$\frac{BL^{2}\omega}{2}$",
+            "picture": [
+                "../Data/27_0.png",
+            ],
+            "answer": [
+                "BC"
+            ],
+            "analysis": "$\begin{aligned}&\text{【名师解析】从图示位置开始计时,在转过 }00°\text{ 的过程中},\text{线框中产生的图应电动势的矩时值为 }e=BL^2\omega\sin\\&\omega t,\text{感应电流的瞬时值为 }i=\frac eR=\frac{BL^2\omega\sin\omega t}R,\text{故 }t=0\text{ 时刻 },I=0,\text{线框中感应电流的最大值为 }I_{m}=\frac{BL^2\omega}R,\\&\text{达项 A 错误,B、C 正确,线框转过 }60°\text{ 时的瞬时电动势为 }e=BL^2\omega\sin\frac\pi3=\frac{\sqrt{3}}2RL^2\omega\text{,故选项 D 错误。}\\&\boxed{}\end{aligned}$",
+            "index": 27,
+        },
+        {
+            "category": "multi",
+            "question": "如图14甲所示是一种振动发电装置的示意图，半径为 r＝0.1 m、匝数n＝20的线圈位于辐向分布的磁场中，磁场的磁感线均沿半径方向均匀分布(其右视图如图乙所示)，线圈所在位置的磁感应强度的大小均为B＝0.20/π T，线圈电阻为R1＝0.5 Ω，它的引出线接有$R_2$＝9.5 Ω的小电珠L，外力推动线圈框架的P端，使线圈沿轴线做往复运动，线圈运动速度v随时间t变化的规律如图丙所示(摩擦等损耗不计)，则(　　)\nA.小电珠中电流的峰值为0.16 A\nB.小电珠中电流的有效值为0.16 A\nC.电压表的示数约为1.5 V\nD.t＝0.1 s时外力的大小为0.128 N",
+            "picture": [
+                "../Data/28_0.png,28_1.png",
+            ],
+            "answer": [
+                "BC"
+            ],
+            "analysis": "$\begin{aligned} & \text{由题意及法拉角电磁感应定律知道,线圈在磁场中做往复运动,产生的感应电动势的大小符}\\  & \text{合正弦曲线变化规律,线圈中的电应电动势的峰值为 }E_{\mathrm{e}}=_{\mathrm{e}}2B_{\mathrm{e}}=_{\mathrm{e}}2B_{\mathrm{e}}\cdot2T_{\mathrm{e}}r_{\mathrm{e}},\text{ 故小电球中电流的峰值为 }I_{\mathrm{e}}\\  & =\frac{E_{\mathrm{e}}}{R_{\mathrm{e}}+R_{\mathrm{e}}}=\frac{20\times\frac{20}{20}\times2\pi\times0.1\times2}{9.5+0.5}A=0.16A,\text{ 进项 }A\text{ 正确,B 错误,电压表示数为 }D=\frac{I_{\mathrm{e}}}{\sqrt{2}}\cdot R\approx1.07\mathrm{~V},\\  & \text{选项 C 错误;当 }\varepsilon=0.1\mathrm{~s}\text{ 也就是}\frac T4\text{时,外力的大小为 }F=nB\cdot2\text{T }x_{x}I_{x}=0.128\mathrm{~W}\text{,选项 D正确。}\end{aligned}$",
+            "index": 28,
+        },
+        {
+            "category": "exclusive",
+            "question": "如图甲所示，为一种调光台灯电路示意图，它通过双向可控硅电子器件实现了无级调节亮度．给该台灯接220 V的正弦交流电后加在灯管两端的电压如图乙所示，则此时交流电压表的示数为(　　)\nA．220 V　　B．110 V     C.$\frac{220}{\sqrt{2}} $V 	D．$\frac{110}{\sqrt{2}}$ V",
+            "picture": [
+                "../Data/29_0.png",
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "设电压的有效值为U，根据有效值定义有22022R·T2＝U2RT，解得U＝110 V，则B正确。",
+            "index": 29,
+        },
+        {
+            "category": "multi",
+            "question": "如图所示，空间中有范围足够大的匀强磁场，磁场方向竖直向下，在其间竖直放置两彼此正对的相同金属圆环，两环相距L，用导线将环与外电阻相连，现用外力使金属杆沿两环做匀速圆周运动．若已知磁感应强度大小为B，圆环半径为R，杆转动角速度为ω，金属杆和电阻的阻值均为r，其他电阻不计，则(　　)\nA．当金属杆从圆环最高点向最低点转动过程中，流过外 电阻的电流先变大后变小\nB．当金属杆从圆环最高点向最低点转动过程中，流过外电阻的电流先变小后变大\nC．流过外电阻电流的有效值为$\frac{\sqrt{2}BL\omega R}{4r}$\nD．流过外电阻电流的有效值为$ \frac{\sqrt{2}\pi B\omega R^{2}}{4r}$",
+            "picture": [
+                "../Data/30_0.png",
+            ],
+            "answer": [
+                "BC"
+            ],
+            "analysis": "金属杆从圆环最高点向最低点转动的过程中，垂直磁场方向的分速度先减小再增大，因而流过外电阻的电流先减小再增大，选项A错误，选项B正确；杆沿圆环的匀速率运动等效为以两环圆心连线为转动轴、长为L、宽为R的矩形线框的匀速转动，因此产生正弦交流电，遵守=的关系，电动势的最2
+大值为$ E_{\mathrm{m}}=BL\omega R$ ，$ I_{\mathrm{m}}=\frac{E_{\mathrm{m}}}{2r}$ ，$  I=\frac{I_{\mathrm{m}}}{\sqrt{2}}=\frac{\sqrt{2}BL\omega R}{4r}$ ,故选项C正确、D错误",
+            "index": 30,
+        },
+        {
+            "category": "multi",
+            "question": "如图所示，闭合的矩形导体线圈abcd在匀强磁场中绕垂直于磁感线的对称轴OO′匀速转动，沿着OO′方向观察，线圈沿顺时针方向转动。已知匀强磁场的磁感应强度为B，线圈匝数为n，ab边的边长为$L_1$，ad边的边长为$L_2$，线圈电阻为R，转动的角速度为ω，则当线圈转至图示位置时(　　)\nA．线圈中感应电流的方向为abcda\nB．线圈中的感应电动势为$2nBL_2ω$\nC．穿过线圈的磁通量随时间的变化率最大\nD．线圈ad边所受安培力的大小为$\frac{n^{2}B^{2}L_{1}L_{2}\omega}{R}$，方向垂直纸面向里",
+            "picture": [
+                "../Data/31_0.png",
+            ],
+            "answer": [
+                "AC"
+            ],
+            "analysis": "当线圈转至图示位置时由楞次定律可判断出线圈中感应电流的方向为abcda，线圈中的感应电动势为$nBL_1L_2ω$，穿过线圈磁通量随时间的变化率最大，选项A、C正确，选项B错误；线圈ad边所受安培力的大小为$\frac{n^2B^2L_1L_2^2\omega}R$，方向垂直纸面向里，选项D错误。",
+            "index": 31,
+        },
+        {
+            "category": "exclusive",
+            "question": "先后用不同的交流电源给同一盏灯泡供电，第一次灯泡两端的电压随时间按正弦规律变化(如图甲所示)；第二次灯泡 两端的电压变化规律如图乙所示。若甲、乙图中的U_0、T所表示的电压、周期值是相同的，则以下说法正确的是(　　)\nA．第一次，灯泡两端的电压有效值是$\frac{U_0}2$\nB．第二次，灯泡两端的电压有效值是$\frac{3U_0}2$\nC．第一、第二次，灯泡的电功率之比是2∶9\nD．第一、第二次，灯泡的电功率之比是1∶5",
+            "picture": [
+                "../Data/32_0.png",
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "第一次，灯泡两端电压的有效值为$U_{1}=\frac{U_{0}}{\sqrt{2}}$,功率$P_{\mathrm{i}}=\frac{U_{\mathrm{i}}^{2}}{R}\overset{2}{\operatorname*{=}}\frac{U_{\mathrm{o}}^{2}}{2R}$。第二次，设灯泡两端电压的有效值为$U_2$,则$\frac{(2U_0)^2T}R+\frac{(-U_0)^2T}R=\frac{U_2^2}RT$,解得$U_2=\sqrt{\frac52}U_0$,功率$P_2=\frac{U_2^2}R=\frac{5U_0^2}{2R}$,则$P_1:P_2=1:5$,故A、B、C错误，D正确。",
+            "index": 32,
+        },
+        {
+            "category": "multi",
+            "question": "如图甲所示为一交变电压随时间变化的图像，每个周期内，前二分之一周期电压恒定，后二分之一周期电压按正弦规律变化。若将此交流电连接成如图乙所示的电路，电阻R阻值为100 Ω，则(　　)\nA．理想电压表读数为100 V\nB．理想电流表读数为0.75 A\nC．电阻R消耗的电功率为56 W\nD．电阻R在100秒内产生的热量为5 625 J",
+            "picture": [
+                "../Data/33_0.png",
+            ],
+            "answer": [
+                "BD"
+            ],
+            "analysis": "根据电流的热效应，一个周期内产生的热量：$Q=\frac{U^2}{R}T=\frac{100^2T}{R}+\frac{\left(\frac{50}{\sqrt{2}}\right)^2}{R}\frac{T}{2}$，解得U＝75 V， A错误；电流表读数I＝U/R＝0.75 A，B正确；电阻R消耗的电功率$P=I^{2}R=56.25 \mathrm{W}$，C错误；在100秒内产生的热量Q＝Pt＝5 625 J，D正确。",
+            "index": 33,
+        },
+        {
+            "category": "multi",
+            "question": "如图所示，处在垂直纸面向外、磁感应强度大小为B的匀强磁场中的矩形线框MNPQ，以恒定的角速度ω绕对角线NQ转动。已知MN长为l1，NP长为l2，线框电阻为R。在t＝0时刻线框平面与纸面重合 ，下列说法正确的是(　　)\nA．矩形线框产生的感应电动势有效值为$\frac{\sqrt{2}}{2}Bl_{1}l_{2}\omega^{\leftarrow}$\nB．矩形线框转过半周时，通过线框的瞬时电流为零\nC．矩形线框转动一周时，通过线框的电荷量为$\frac Bl_1l_2R$\nD．矩形线框在转动半周过程中产生的热量为
+$\pi B^{2}l_{1}^{2}l_{2}^{2}\omega{2R}\leftarrow$",
+            "picture": [
+                "../Data/34_0.png",
+            ],
+            "answer": [
+                "ABD"
+            ],
+            "analysis": "矩形线框转动产生正弦交变电流最大值：$E_{\mathfrak{m}}=Bl_{1}l_{2}\omega $，有效值$E=\frac{E_{m}}{\sqrt{2}}=\frac{\sqrt{2}}{2}Bl_{1}l_{2}\omega $     B，故A正确；转过半周，线圈平面与磁场垂直，磁通量最大，感应电动势为零，瞬时电流为零，B正确；转过一周通过横截面的电荷量为零，C错误；转过半周时间内产生的热量为$Q=\frac{E^{2}}{R}t=\frac{\left(\frac{\sqrt{2}}{2}Bl_{1}l_{2}\omega\right)^{2}}{R}\times\frac{\pi}{\omega}=\frac{\pi B^{2}l_{1}^{2}l_{2}^{2}\omega}{2R}$D正确。",
+            "index": 34,
+        },
+        {
+            "category": "multi",
+            "question": "如图所示，在匀强磁场中匀速转动的矩形线圈的周期为T，转轴$O_1O_2$垂直于磁场方向，线圈电阻为2 Ω。从线圈平面与磁场方向平行时开始计时，线圈转过60°时的感应电流为1 A。那么(　　)\nA．线圈消耗的电功率为4 W\nB．线圈中感应电流的有效值为2 A\nC．任意时刻线圈中的感应电动势为$e=4\cos\frac{2\pi}{T}t^{\leftarrow}$\nD．任意时刻穿过线圈的磁通量为$\Phi = \frac T\pi$sin$\frac {2\pi }Tt^{\leftarrow }$",
+            "picture": [
+                "../Data/35_0.png",
+            ],
+            "answer": [
+                "AC"
+            ],
+            "analysis": "$\begin{aligned}&\text{【名川解析】线圈转动的角速度 }\omega=\frac{2\pi}T,\text{线圈平面从与磁场方向平行开始计时,当转过 }60^{\circ}\text{时,电流的瞬时}\\&\text{值表达式为 }i=i_{\mathrm{m}}\mathrm{cos}60^{\circ}=1\text{ A,解得 }i_{\mathrm{m}}=2\text{A,则正弦交变电流的有效值为 }I=\frac{I_{\mathrm{m}}}{\sqrt{2}}=\sqrt{2}\text{ A,B 项错;线圈}\\&\text{消耗的电功率 }P=P=4\mathrm{~W,A}\text{ 项正确,由欧姆定律可知,感应电对势最大值为 }E_{\mathrm{m}}=I_{\mathrm{m}}R=4\mathrm{~V,所以其}\\&\text{时值表达式为 }e=4\mathrm{cos}\frac{2\pi}T,\text{ C 项正确;通过线圈的磁值量 }\hat{\varphi}=\hat{\varphi}_{\mathrm{m}}\mathrm{sin}\omega t=\hat{\varphi}_{\mathrm{m}}\mathrm{sin}\frac{2\pi}Tt\text{,感应电动势的最大值 }E_{\mathrm{m}}\\&=BS\omega=\sigma_{\mathrm{m}}\times\frac{2\pi}T, \sigma_{\mathrm{m}}=\frac{E_{\mathrm{m}}T}{2\pi}, \text{联定解得 }\varphi=\frac{2T}{\pi}\mathrm{sin}\frac{2\pi}Tt, \mathrm{D} \text{项错。}\end{aligned}$ ",         
+            "index": 35,
+        },
+        {
+            "category": "exclusive",
+            "question": "在匀强磁场中，一矩形金属线框绕与磁感线垂直的转动轴匀速转动，如图甲所示。产生的交变电动势随时间变化的规律如图乙所示。则下列说法正确的是(　　)\nA. t=0.01s 时穿过线框的磁通量最小\nB. 该交变电动势的有效值为 11$\sqrt{2}$ Ve\nC. 该交变电动势的瞬时值表达式为$e=22\sqrt{2}\cos100\pi t($V$)^{\leftrightarrow}$\nD. 电动势瞬时值为22 V时，线框平面与中性面的夹角为 45°",
+            "picture": [
+                "../Data/36_0.png",
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "$t=0.01$ s时，感应电动势为零，线框位于中性面位置，穿过线框的磁通量最大，A项错误。由图象知，正弦交变电动势的最大值为$u=22\sqrt{2}v$,故有效值$u=\frac{U_{\mathrm{c}}}{\sqrt{2}}=22$ v,B项错误；$t=0$时，感应电动势为零，故瞬时值表达式应为$e= 22\sqrt {2}\sin 100\pi t($v),C项错误；当$e=22$ V时，$e=E_{\mathrm{rsin}}$ 8=22 v解得：一$\theta=45^{\circ}$,D项正确。",
+            "index": 36,
+        },
+        {
+            "category": "exclusive",
+            "question": "如图所示，一交流发电机的矩形线圈匝数为n=10,其电阻 r=2 Ω,面积 $S=0.2\mathbf{m}^{2}$,在磁感应强度$B=\frac{2}{\pi}$ T 的匀强磁场中，若线圈从中性面位置开始绕垂直于磁场方向的对称轴 OO'以$\omega=10\pi$ rad/s 的角速度匀速转动，向$R=18\Omega$的电阻供电。则以下说法中正确的是( $) ^{\leftrightarrow }$\nA ．该线圈产生的是余弦式交变电流\nB．线圈在转动过程中产生的最大感应电动势为40 V\nC．线圈开始转动1/60 s时流过电阻R的瞬时电流大小为$_{\frac{\sqrt{2}}{2}}^{\leftarrow} $ A\nD．电阻R上消耗的电功率为9 W",
+            "picture": [
+                "../Data/37_0.png",
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "若线圈从中性面开始运动，则穿过线圈的磁通量按照余弦规律变化，由法拉第电磁感应定律可知，其产生的感应电动势(感应电流)将按照正弦规律变化，选项 A错误；由于$oo^{\prime}$为线圈的对称轴，所以线圈产生的感应电动势的最大值应为$E_{\mathrm{e}}=\frac{1}{2}$n$BS\omega=20$ v,选项 B 错误；线圈在转动过程中产生的感应电动势的瞬时值表达式为$e=20\sin10$ T $t($v),所以其感应电流的瞬时值表达式为$i=\sin10$ T $t($A),故当$t$ $=\frac{1}{60}$ s 时，流经电阻$R$的瞬时电流大小为$i=\sin10$ T$\times\frac1{60}$ A$=\frac12$ A,选项 C 错误；流经$R$的电流的有效值为$r=\frac{\sqrt{2}}{2}$ A,所以电阻$\pi$上消耗的电功率为$p=iR=9$ W,选项 D 正确。",
+            "index": 37,
+        },
+        {
+            "category": "exclusive",
+            "question": "电阻为1 Ω的矩形线圈绕垂直于磁场方向的轴在匀强磁场中匀速转动，产生的交变电动势随时间变化的图象如图所示．现把交流电加在电阻为9 Ω的电热丝上，下列判断正确的是(　　)\nA．线圈转动的角速度ω＝100 rad/s\nB．在t＝0.01 s时刻，穿过线圈的磁通量最大\nC．C．电热丝两端的电压$U=100{\sqrt{2}}\mathrm{V}$\nD．电热丝此时的发热功率P＝1 800 W",
+            "picture": [
+                "../Data/38_0.png",
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "由题图可以看出该交变电流的周期$T=0.02$ s,则角速度$\omega=\frac{2\pi}T=\frac{2\pi}{0.02}$ rad/s=100πrad/s,A 项错.$t=0.01$s时刻，电压达到最大，则此时磁通量变化率最大，磁通量为零，B项错；电热丝两端电压为路端电压$U_{\mathrm{x}}=\frac{R}{R+r}U=\frac{9}{9+1}\times\frac{U_{\mathrm{m}}}{\sqrt{2}}=90\sqrt{2}$ V,故 C 项错；根据电功率公式 $P=\frac{U_{\mathrm{R}}^{2}}{R}=\frac{(90\sqrt{2})^{2}}{9}$ W=1 800 W,故 D项正确.",
+            "index": 38,
+        },
+        {
+            "category": "multi",
+            "question": "面积都为S且电阻相同的正方形线圈和圆形线圈，分别放在如图所示的磁场中，图甲中是磁感应强度为B'的匀强磁场，线圈在磁场中以周期T绕OO′轴匀速转动，图乙中磁场变化规律为$\ B=B_{0}\mathrm{cos}\frac{2\pi t}{T}$，从图示位置开始计时 ，则(　　)\nA．两线圈的磁通量变化规律相同\nB．两线圈中感应电动势达到最大值的时刻不同\nC．经相同的时间t(t＞T)，两线圈产生的热量相同\nD．从图示位置时刻起，经T/4时间，流过两线圈横截面的电荷量相同",
+            "picture": [
+                "../Data/39_0.png",
+            ],
+            "answer": [
+                "ACD"
+            ],
+            "analysis": "图甲中通过线圈的磁通量变化规律为$\Phi _{\text{甲 }}= B_0$Scos$\frac {2\pi }Tt$,图乙中通过线圈的磁通量变化规律为$\Phi _{\text{乙 }}=B$oScos$\frac{2\pi}Tt.$由于两线圈的磁通量变化规律相同，则两线圈中感应电动势的变化规律相同，达到最大值的时刻也相同，有效值$E$ 也相同.又因两线圈电阻相同，所以$Q=\frac{E^{2}}Rt$也相同.经过T/4时间，流过两线圈横截面的电荷量$q=\overline{I}\cdot\frac T4$也相同，故选项 A、C、D 正确. $\leftrightarrow$",
+            "index": 39,
+        },
+        {
+            "category": "exclusive",
+            "question": "如图所示，图甲和图乙分别表示正弦脉冲波和方波的交变电流与时间的变化关系．若使这两种电流分别通过两个完全相同的电阻，则经过1 min的时间，两电阻消耗的电功之比$W_甲:W_乙$为(　　)\A．$1:\sqrt{2}$ 	B．1∶2    C．1∶3  	D．1∶6",
+            "picture": [
+                "../Data/40_0.png",
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "电 功 的 计 算 中 , $I$要 用 有 效 值 计 算 . 图 甲 中 , 由 有 效 值 的 定 义 得 $\left(\frac{1}{\sqrt{2}}\right)^{2}R\times2\times10^{-2}+0+\left(\frac{1}{\sqrt{2}}\right)^{2}R\times2\times10^{-2}=I_{1}R\times6\times10^{-2}$ 得 $I_{1}= \frac {\sqrt {3}}3$ A，得$I_{1}=\frac{\sqrt{3}}{3}$ A ；图乙中，$I$的值不变，$I_2=1$ A，由$w=UIt=I^{2}Rt$可以得到$W_甲:W_乙=1:3.$",
+            "index": 40,
+        },
+
+
+
+
+
+  
+
+}
