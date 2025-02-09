@@ -20,7 +20,7 @@
             "answer": [
                 "BCD"
             ],
-            "analysis": "导弹在运动过程中所受重力的方向一直在变，不是做匀变速曲线运动，故错误；导弹在c点受到的万有引力$F=G\frac{M_{m}}{\left(R+h\right)^{2}}$，所以$a=\frac Fm=\frac{GM}{\left(R+h\right)^2}$，故B正确；导弹沿圆轨道运动，地球球心位于圆的焦点上，故C正确；导弹的轨迹长度未知，运动时间可能小于近地卫星的周期，故D正确",
+            "analysis": "导弹在运动过程中所受重力的方向一直在变，不是做匀变速曲线运动，故A错误；导弹在c点受到的万有引力$F=G\frac{M_{m}}{\left(R+h\right)^{2}}$，所以$a=\frac Fm=\frac{GM}{\left(R+h\right)^2}$，故B正确；导弹沿圆轨道运动，地球球心位于圆的焦点上，故C正确；导弹的轨迹长度未知，运动时间可能小于近地卫星的周期，故D正确",
             "index": 2,
         },
         {
@@ -32,8 +32,7 @@
             "answer": [
                 "C"
             ],
-            "analysis": "该星球的第一宇宙速度$v=\sqrt{\frac{GH}R}$，而$|\frac{2\pi R}{T}$是星球自转的最大线速度，所以A错误；若不考虑该星球自转，A点处的重力加速度$g=\frac{F}{m_{i}}$，由$G\frac{Hm}{R^2}=mg$得$n=\frac{FR^{2}}{Gm_{i}}$，B错误，放在A、B两处的物体随星球自转的向心力大小分别为$F_{i}=m_{i} \omega^{2} r_{i}=m_{i} \omega^{2} R\mathrm{sin} \sigma $，$F_{3}=m_{3}\omega^{2}r_{3}=m\omega^{2}R\mathrm{sin} \beta $，$\frac{F_{s}}{F_{s}}=\frac{m_{s}\sin\quad\sigma}{m_{s}\sin\quad\beta}=\frac{m_{s}}{\sqrt{3}m_{s}}$，C正确
-D错误。",
+            "analysis": "该星球的第一宇宙速度$v=\sqrt{\frac{GH}R}$，而$|\frac{2\pi R}{T}$是星球自转的最大线速度，所以A错误；若不考虑该星球自转，A点处的重力加速度$g=\frac{F}{m_{A}}$，由$G\frac{Mm}{R^2}=mg$得$M=\frac{FR^{2}}{Gm_{A}}$，B错误，放在A、B两处的物体随星球自转的向心力大小分别为$F_{A}=m_{A} \omega^{2} r_{A}=m_{A} \omega^{2} R\mathrm{sin} \alpha$，$F_{B}=m_{B}\omega^{2}r_{B}=m_{B}\omega^{2}R\mathrm{sin} \beta $，$\frac{F_{A}}{F_{B}}=\frac{m_{A}\sin\quad \alpha}{m_{B}\sin\quad\beta}=\frac{m_{A}}{\sqrt{3}m_{B}}$，C正确,D错误。",
             "index": 3,
         },
         {
@@ -45,7 +44,7 @@ D错误。",
             "answer": [
                 "D"
             ],
-            "analysis": "根据万有引力提供向心力，即$\frac{GMm}{r^{2}}=m\frac{4\pi^{2}r}{r^{2}}$，$r=n^2R$，在地球表面附近，万有引力等于重力得：$G\frac{Mm}{R}=m\frac{v^2}R$，又$r=n^2R$，联立解得，$v=\frac{2\pi n^3R}T$。",
+            "analysis": "根据万有引力提供向心力，即$\frac{GMm}{r^{2}}=m\frac{4\pi^{2}r}{T^{2}}$，$r=n^2R$，在地球表面附近，万有引力等于重力得：$G\frac{Mm}{R}=m\frac{v^2}R$，又$r=n^2R$，联立解得，$v=\frac{2\pi n^3R}T$。",
             "index": 4,
         },
         {
