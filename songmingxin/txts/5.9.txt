@@ -37,14 +37,14 @@
         },
         {
             "category": "exclusive",
-            "question": "设金星和地球绕太阳中心的运动是公转方向相同且轨道共面的匀速圆周运动，金星在地球轨道的内侧(称为地内行星)。在某些特殊时刻，地球、金星和太阳会出现在一条直线上，这时候从地球上观测，金星像镶嵌在太阳脸上的小黑痣缓慢走过太阳表面。天文学称这种现象为“金星凌日”。如图所示，2012年6月6日天空上演的“金星凌日”吸引了全世界数百万天文爱好者。假设地球公转轨道半径为R，“金星凌日”每隔t0年出现一次，则金星的公转轨道半径为(　　)\nA．$\frac{t_0}{1+t_0}R$\nB．$R^3\sqrt{(\frac{t_{0}}{1+t_{0}})^{2}}$\nC．$R^3\sqrt{(\frac{1+t_0}{t_0})^2}$\nD．$R\sqrt{(\frac{t_0}{1+t_0})^3}$",
+            "question": "设金星和地球绕太阳中心的运动是公转方向相同且轨道共面的匀速圆周运动，金星在地球轨道的内侧(称为地内行星)。在某些特殊时刻，地球、金星和太阳会出现在一条直线上，这时候从地球上观测，金星像镶嵌在太阳脸上的小黑痣缓慢走过太阳表面。天文学称这种现象为“金星凌日”。如图所示，2012年6月6日天空上演的“金星凌日”吸引了全世界数百万天文爱好者。假设地球公转轨道半径为R，“金星凌日”每隔$t_0$年出现一次，则金星的公转轨道半径为(　　)\nA．$\frac{t_0}{1+t_0}R$\nB．$R^3\sqrt{(\frac{t_{0}}{1+t_{0}})^{2}}$\nC．$R^3\sqrt{(\frac{1+t_0}{t_0})^2}$\nD．$R\sqrt{(\frac{t_0}{1+t_0})^3}$",
             "picture": [ 
                 "../Data/55_0.png",
             ],
             "answer": [
                 "B"
             ],
-            "analysis": "由开普勒第三定律知${\frac{R^3}{T^2}}=k$，设金星的轨道半径为$R_{1}$，周期为$T_{1}$，角速度为$\omega_{1}$，则由$\frac{R^3}{T^2}=\frac{R^3}{T^2}$得$R_1=R\sqrt[3]{\left(\frac{T_1}{T_0}\right)^2}$。根据题设，应有$\omega_1>\omega_0$，$\begin{pmatrix}\omega_1-\omega_0\end{pmatrix}t_0=2\pi $，即$(\frac{2\pi}{T_1}-\frac{2\pi}{T_{0}})\cdot_{t_0=2\pi}$，解得$T_1=\frac{t_0T_0}{t_0+T_0}$，其中$T_0=1$年，联立解得$R_1=R\sqrt[3]{(\frac{t_0}{1+t_0})^2}$，选项B正确。",
+            "analysis": "由开普勒第三定律知${\frac{R^3}{T^2}}=k$，设金星的轨道半径为$R_{1}$，周期为$T_{1}$，角速度为$\omega_{1}$，则由$\frac{R_1^3}{T_1^2}=\frac{R^3}{T_0^2}$得$R_1=R\sqrt[3]{\left(\frac{T_1}{T_0}\right)^2}$。根据题设，应有$\omega_1>\omega_0$，$\begin{pmatrix}\omega_1-\omega_0\end{pmatrix}t_0=2\pi $，即$(\frac{2\pi}{T_1}-\frac{2\pi}{T_{0}})\cdot_{t_0=2\pi}$，解得$T_1=\frac{T_0}{t_0+T_0}t_0$，其中$T_0=1$年，联立解得$R_1=R\sqrt[3]{(\frac{t_0}{1+t_0})^2}$，选项B正确。",
             "index": 55,
         },
         {
@@ -93,7 +93,7 @@
             "answer": [
                 "AD"
             ],
-            "analysis": "根据万有引力等于重力：$G \frac{Mm}{R^{2}}=mg$。对B卫星，由$G\frac{Mm}{\left(2R\right)^{2}}=m\frac{v_{B}^2}{2R}=m2R\frac{4\pi^2}{T_{B}^2}$得：$v_{B}=\sqrt{\frac{gR}{2}}$，$T_{B}=4\pi\sqrt{\frac{2R}{g}}，故A正确，B错误；对A，由$G\frac{Mm}{r^{2}}=mr\frac{4\pi^{2}}{T^{2}}$得$r=\sqrt[3]{\frac{gR^{2}T^{2}}{4\pi^{2}}}$，故C错误，由$\frac{t}{T_{B}}-\frac{t}{T}=1$得$t=\frac{4\pi T\sqrt{2R}}{T\sqrt{g}-4\pi\sqrt{2R}}$，故D正确。",
+            "analysis": "根据万有引力等于重力：$G \frac{Mm}{R^{2}}=mg$。对B卫星，由$G\frac{Mm}{\left(2R\right)^{2}}=m\frac{v_{B}^2}{2R}=m2R\frac{4\pi^2}{T_{B}^2}$得：$v_{B}=\sqrt{\frac{gR}{2}}$，$T_{B}=4\pi\sqrt{\frac{2R}{g}}$，故A正确，B错误；对A，由$G\frac{Mm}{r^{2}}=mr\frac{4\pi^{2}}{T^{2}}$得$r=\sqrt[3]{\frac{gR^{2}T^{2}}{4\pi^{2}}}$，故C错误，由$\frac{t}{T_{B}}-\frac{t}{T}=1$得$t=\frac{4\pi T\sqrt{2R}}{T\sqrt{g}-4\pi\sqrt{2R}}$，故D正确。",
             "index": 59,
         },
    }
